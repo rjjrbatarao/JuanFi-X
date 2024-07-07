@@ -1,6 +1,6 @@
 # JuanFi-X
 A refactored version of JuanFi, made compatible with JuanFi portals version pre-2.4.x.
-This repo is the continuation of the `Open Source` advocacy of JuanFi and thus `JuanFi-X` is born.
+This repo is the continuation of the `Free Open Source Software` advocacy of JuanFi and thus `JuanFi-X` is born.
 
 ## Features
 - Wireless/W5500 Lan
