@@ -9,8 +9,8 @@ This repo is the continuation of the `Open Source` advocacy of JuanFi and thus `
 - All Features of version 2.4.x
 
 ## Contributions
-`Feel free to contribute by writing Issues`
-`I don't accept donations, and if you insist then you must give it to the original developer of JuanFi`
+- `Feel free to contribute by writing Issues`
+- `I don't accept donations, and if you insist then you must give it to the original developer of JuanFi`
 
 ## Original Source
 https://github.com/ivanalayan15/JuanFi
